@@ -2,7 +2,7 @@
 
 ChitChat GameBot is a chatbot built using the react-chat-kit. The Gamebot gives provides you with resources relating to some of the most highly anticipated next gen Video Games.
 
-Check it out Live [here](). Have Fun!
+Check it out Live [here](https://chitchat-gamebot.netlify.app/). Have Fun!
 
 ## To Use
 `1. Clone the Repo. Cd into the project`
