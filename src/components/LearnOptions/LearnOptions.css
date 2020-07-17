@@ -1,0 +1,13 @@
+.game-options-container {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  
+  .game-option-button {
+    padding: 0.5rem;
+    border-radius: 25px;
+    background-color: whitesmoke;
+    border: 1px solid brown;
+    margin: 3px;
+  }
